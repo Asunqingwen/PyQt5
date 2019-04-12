@@ -40,7 +40,7 @@ class Ui_Form(object):
         self.printButton.setObjectName("printButton")
         self.horizontalLayout.addWidget(self.printButton)
         self.layoutWidget1 = QtWidgets.QWidget(self.groupBox)
-        self.layoutWidget1.setGeometry(QtCore.QRect(20, 70, 154, 31))
+        self.layoutWidget1.setGeometry(QtCore.QRect(20, 70, 200, 31))
         self.layoutWidget1.setObjectName("layoutWidget1")
         self.horizontalLayout_2 = QtWidgets.QHBoxLayout(self.layoutWidget1)
         self.horizontalLayout_2.setContentsMargins(0, 0, 0, 0)
@@ -55,7 +55,7 @@ class Ui_Form(object):
         self.groupBox_2.setGeometry(QtCore.QRect(400, 10, 361, 301))
         self.groupBox_2.setObjectName("groupBox_2")
         self.resultLabel = QtWidgets.QLabel(self.groupBox_2)
-        self.resultLabel.setGeometry(QtCore.QRect(130, 120, 54, 12))
+        self.resultLabel.setGeometry(QtCore.QRect(130, 120, 200, 100))
         self.resultLabel.setObjectName("resultLabel")
 
         self.retranslateUi(Form)
