@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter7" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter7/MainWinSignalSlot02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter7/transParam" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
